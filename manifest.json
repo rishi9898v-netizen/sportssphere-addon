@@ -1,10 +1,16 @@
 {
-  "id": "sportssphere-local",
+  "id": "sportssphere-addon",
   "version": "1.0.0",
-  "name": "SportsSphere Local",
-  "description": "Local sports addon with NFL, CFB, F1, NBA, UFC streams.",
+  "name": "SportsSphere",
+  "description": "Permanent sports addon hosted on GitHub.",
   "resources": ["stream"],
   "types": ["tv"],
-  "catalogs": [],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "sportslocal",
+      "name": "SportsSphere Live"
+    }
+  ],
   "idPrefixes": ["sportslocal"]
 }
