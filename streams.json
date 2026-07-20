@@ -1,0 +1,36 @@
+{
+  "NFL": [
+    {
+      "name": "NFL Live Stream 1",
+      "url": "https://sports-streams.example/nfl1.m3u8"
+    },
+    {
+      "name": "NFL Live Stream 2",
+      "url": "https://sports-streams.example/nfl2.m3u8"
+    }
+  ],
+  "CFB": [
+    {
+      "name": "College Football Stream",
+      "url": "https://sports-streams.example/cfb.m3u8"
+    }
+  ],
+  "F1": [
+    {
+      "name": "Formula 1 Live",
+      "url": "https://sports-streams.example/f1.m3u8"
+    }
+  ],
+  "NBA": [
+    {
+      "name": "NBA Live",
+      "url": "https://sports-streams.example/nba.m3u8"
+    }
+  ],
+  "UFC": [
+    {
+      "name": "UFC Live",
+      "url": "https://sports-streams.example/ufc.m3u8"
+    }
+  ]
+}
