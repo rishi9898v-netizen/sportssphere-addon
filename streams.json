@@ -1,3 +1,11 @@
 {
-  "streams": {}
+  "streams": {
+    "sportslocal:nfl": [
+      {
+        "id": "nfl1",
+        "title": "NFL Live Stream 1",
+        "url": "https://sports-streams.example/nfl1.m3u8"
+      }
+    ]
+  }
 }
